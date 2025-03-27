@@ -1,18 +1,10 @@
-# classy-weather
+# african-ussd-codes
 
-Weather App using old react class medthods
+African ussd codes
 
 ## Getting Started
 
-The project is public
-
-## Preview
-
-[Classy Weather](https://bvenceslas.github.io/classy-weather/)
-
-## Built With
-
-- React 5.0 [npx]
+The package is public
 
 ## Author
 
