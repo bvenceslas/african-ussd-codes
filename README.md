@@ -4,7 +4,7 @@ African ussd codes
 
 ## Getting Started
 
-The package is public
+The project and the package are both public.
 
 ## Author
 
